@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Devesh86
-- 👀 I’m interested in becoming a junior security analyst
-- 🌱 I’m currently learning the Python programming Language
-- 💞️ I’m looking to collaborate on futrue Security projects
+Hi, I’m Dev
+I’m currently learning the Python programming Language and am starting to build and interest in AI and Machine Learning
 
 <!---
 Devesh86/Devesh86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
